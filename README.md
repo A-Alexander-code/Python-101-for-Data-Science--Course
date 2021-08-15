@@ -6,4 +6,4 @@
 
 ![](https://1drv.ms/u/s!At49W9LBxFG6dlPx-Fopzns_Qew?e=r9aejY)
 
-Personal resolution of the problems proposed in the course.
+Personal solving of the problems proposed in the course.
